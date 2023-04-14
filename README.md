@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="ngl" src="https://github.com/neogreenlife/neogreenlife/blob/main/epmdc6wctna21.jpg">
+  <img align="center" alt="ngl" src="https://github.com/neogreenlife/neogreenlife/blob/main/epmdc6wctna21.jpg" style="border-radius: 50%;">
 </p>
 
 ### <h1> About Me</h1> 
