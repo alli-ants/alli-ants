@@ -1,4 +1,3 @@
-<---![logo]()--->
 <img align="center" alt="ngl" src="https://github.com/neogreenlife/neogreenlife/blob/main/epmdc6wctna21.jpg">
 
 ### <h1> About Me</h1> 
