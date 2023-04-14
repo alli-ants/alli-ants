@@ -1,4 +1,5 @@
 <img align="center" alt="ngl" src="https://github.com/neogreenlife/neogreenlife/blob/main/epmdc6wctna21.jpg">
+<img src="https://github.com/neogreenlife/neogreenlife/blob/main/epmdc6wctna21.jpg" alt="NGL" align="center" width="250" height="250">
 
 ### <h1> About Me</h1> 
 <p align="left">🌍  I'm based in Açu/RN<br>📚  I’m currently learning Javascript, Typescript, ReactJS, NextJS<br> 💬 Ask me about Python<br></p>
