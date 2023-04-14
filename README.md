@@ -2,6 +2,9 @@
   <img align="center" alt="ngl" src="https://github.com/neogreenlife/neogreenlife/blob/main/epmdc6wctna21.jpg" style="border-radius: 15px;" >
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neogreenlife&label=Profile%20views&color=0e75b6&style=flat" alt="neogreenlife" /> </p>
+
+
 #
 ###
 
