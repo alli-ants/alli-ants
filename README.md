@@ -9,10 +9,9 @@
 ###
 
 ### <h1 align="center" > About Us </h1> 
-NeoGreenLife is an association dedicated to promoting and raising awareness about sustainable technology and innovation. We believe that responsible use of technology can contribute to a more sustainable and equitable future.
+Mobius is an association dedicated to the promotion and awareness of technology and innovation.
 
-Our members are technology and innovation enthusiasts, and we work together to develop projects and initiatives that promote the responsible use of technology for sustainability and societal well-being.
-
+Our members are technology and innovation enthusiasts and we work together to develop projects and initiatives that promote the responsible use of technology for social well-being.
 #
 ###
 
