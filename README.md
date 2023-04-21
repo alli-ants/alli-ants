@@ -17,16 +17,15 @@ Our members are technology and innovation enthusiasts and we work together to de
 
 
 ### <h1 align="center" > Our Objectives </h1> 
+- Raise awareness of the importance of technology and innovation in facing humanity's challenges.
 
-- Raise awareness about the importance of sustainable technology and innovation in addressing socio-environmental challenges.
+- Develop projects and initiatives that leverage technology to promote practices for development in areas such as personal, intellectual, sociological and academic development, among others.
 
-- Develop projects and initiatives that leverage technology to promote sustainable practices in areas such as energy, agriculture, transportation, among others.
+- Collaborate with other organizations and communities to promote widespread adoption of technologies and develop innovative solutions that address complex challenges and create a positive impact on society at large.
 
-- Collaborate with other organizations and communities to promote widespread adoption of sustainable technologies.
+- Share knowledge and resources related to technology and innovation.
 
-- Share knowledge and resources related to sustainable technology and innovation.
-
-- Encourage participation of individuals interested in sustainable technology and innovation.
+- Encourage participation from individuals interested in sustainable technology and innovation.
 
 #
 ###
@@ -47,7 +46,7 @@ Our members are technology and innovation enthusiasts and we work together to de
 
 ### <h1 align="center" > Contact Us </h1>
 
-Thank you for your interest in our association! If you would like to get involved or learn more about NeoGreenLife, please contact us  [here](mailto:mobiusassociation@gmail.com)
+Thank you for your interest in our association! If you would like to get involved or learn more about Mobius, please contact us  [here](mailto:mobiusassociation@gmail.com)
 
 Thank you for your support of sustainable technology and innovation!
 
