@@ -48,7 +48,7 @@ Our members are technology and innovation enthusiasts, and we work together to d
 
 ### <h1 align="center" > Contact Us </h1>
 
-Thank you for your interest in our association! If you would like to get involved or learn more about NeoGreenLife, please contact us  [here](mailto:sirnaelc7@gmail.com)
+Thank you for your interest in our association! If you would like to get involved or learn more about NeoGreenLife, please contact us  [here](mailto:mobiusassociation@gmail.com)
 
 Thank you for your support of sustainable technology and innovation!
 
