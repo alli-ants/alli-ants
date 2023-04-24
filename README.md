@@ -25,7 +25,7 @@ Our members are technology and innovation enthusiasts and we work together to de
 
 - Share knowledge and resources related to technology and innovation.
 
-- Encourage participation from individuals interested in sustainable technology and innovation.
+- Encourage participation from individuals interested in technology and innovation.
 
 #
 ###
