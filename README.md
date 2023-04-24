@@ -34,7 +34,7 @@ Our members are technology and innovation enthusiasts and we work together to de
 
 - Participate in our projects and initiatives, contributing your skills and knowledge in technology.
 
-- Share relevant information and resources related to sustainable technology and innovation.
+- Share relevant information and resources related to technology and innovation.
 
 - Engage in discussions and contribute ideas in our forums and project repositories.
 - Promote the association and our actions in your social networks and community.
