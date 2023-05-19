@@ -40,9 +40,5 @@ We appreciate your interest in contributing to the NGL Lab! If you would like to
 
 If you have any questions, suggestions, or would like to learn more about the NGL Lab, feel free to contact us:
 
-- Email: nglab@example.com
-- Website: www.nglab.com
-- Twitter: @nglab
-
 #
 ###
