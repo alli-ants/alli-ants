@@ -1,52 +1,48 @@
 <p align="center">
-  <img align="center" alt="ngl" src="https://github.com/neogreenlife/neogreenlife/blob/main/epmdc6wctna21.jpg" style="border-radius: 15px;" >
+  <img align="center" alt="ngl" src="./ngl.webp" style="border-radius: 15px;" >
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neogreenlife&label=Profile%20views&color=0e75b6&style=flat" alt="neogreenlife" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neogreenlife&label=Profile%20views&color=0e75b6&style=flat" alt="ngl" /> </p>
 
 
 #
 ###
 
 ### <h1 align="center" > About Us </h1> 
-Mobius is an association dedicated to the promotion and awareness of technology and innovation.
 
-Our members are technology and innovation enthusiasts and we work together to develop projects and initiatives that promote the responsible use of technology for social well-being.
-#
-###
+NGL Lab is a research and development laboratory focused on exploring next-generation technologies and solutions. Our main objectives are to drive innovation, create disruptive products, and conduct cutting-edge research in areas such as web development, competitive programming, data science, robotics, and more.
 
 
-### <h1 align="center" > Our Objectives </h1> 
-- Raise awareness of the importance of technology and innovation in facing humanity's challenges.
-
-- Develop projects and initiatives that leverage technology to promote practices for development in areas such as personal, intellectual, sociological and academic development, among others.
-
-- Collaborate with other organizations and communities to promote widespread adoption of technologies and develop innovative solutions that address complex challenges and create a positive impact on society at large.
-
-- Share knowledge and resources related to technology and innovation.
-
-- Encourage participation from individuals interested in technology and innovation.
 
 #
 ###
 
 ### <h1 align="center" > How to Contribute </h1> 
 
-- Participate in our projects and initiatives, contributing your skills and knowledge in technology.
+We appreciate your interest in contributing to the NGL Lab! If you would like to collaborate on any of our ongoing projects or have ideas for new initiatives, please follow the steps below:
 
-- Share relevant information and resources related to technology and innovation.
+1. Fork this repository and clone it to your local environment.
 
-- Engage in discussions and contribute ideas in our forums and project repositories.
-- Promote the association and our actions in your social networks and community.
+2. Create a new branch for your contribution: git checkout -b my-contribution.
 
-- Get involved in our activities and events to raise awareness about sustainable technology.
+3. Make the desired changes and improvements.
+
+4. Commit your changes: git commit -m "Add my contribution".
+
+5. Push your changes to your fork: git push origin my-contribution.
+
+6. Open a pull request in this original repository, describing your changes and explaining your contribution.
 
 #
 ###
 
 ### <h1 align="center" > Contact Us </h1>
 
-Thank you for your interest in our association! If you would like to get involved or learn more about Mobius, please contact us  [here](mailto:mobiusassociation@gmail.com)
+If you have any questions, suggestions, or would like to learn more about the NGL Lab, feel free to contact us:
 
-Thank you for your support of sustainable technology and innovation!
+- Email: nglab@example.com
+- Website: www.nglab.com
+- Twitter: @nglab
 
+#
+###
