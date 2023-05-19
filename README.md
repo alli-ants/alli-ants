@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="ngl" src="./ngl.webp" style="border-radius: 15px;" >
+  <img align="center" alt="ngl" src="./epmdc6wctna21.jpg" style="border-radius: 15px;" >
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neogreenlife&label=Profile%20views&color=0e75b6&style=flat" alt="ngl" /> </p>
